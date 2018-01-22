@@ -1,0 +1,11 @@
+#!/bin/bash
+python smb4.py 172.16.1.186 0 500 &
+python smb4.py 172.16.1.186 1000 500 &
+python smb4.py 172.16.1.186 2000 500 &
+python smb4.py 172.16.1.186 3000 500 &
+python smb4.py 172.16.1.186 4000 500 &
+python smb4.py 172.16.1.186 5000 500 &
+python smb4.py 172.16.1.186 6000 500 &
+python smb4.py 172.16.1.186 7000 500 &
+python smb4.py 172.16.1.186 8000 500 &
+python smb4.py 172.16.1.186 9000 500 &
