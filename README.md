@@ -73,3 +73,7 @@ Python 3.6/basic programming skills <br/> 
 
 
 * [Hands-on Network Programming with Python [Video]](https://prod.packtpub.com/in/networking-and-servers/hands-network-programming-python-video-0)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788399432">https://packt.link/free-ebook/9781788399432 </a> </p>
